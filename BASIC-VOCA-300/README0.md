@@ -1,0 +1,59 @@
+== 2
+- fold clothes
+- flower
+- get
+- calculate
+- cheat
+- color
+- weight
+- wipe
+- wonder
+- pack
+- attach
+- attend
+- realize
+- ride
+- divide
+- hold
+- knock on
+- leave
+- prepare
+- read
+- review
+- graduate
+- learn
+- listen
+- make
+- memorize
+- multiply
+- pack
+- pass
+- put
+- sweep
+- take
+- be late
+- take a test
+- speak
+- spell
+- study
+- hang
+- have
+- hold
+- catch
+- clean
+- climb
+- be absent
+- be brave
+- be bright
+- teach
+- transfer
+- write
+- use
+- unpack
+- unload
+- cut
+- divide
+- do homework
+- draw
+- enter
+- fold
