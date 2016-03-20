@@ -9,6 +9,7 @@
 - I had to read.
 - I had to work.
 - I had to clean.
+
 ## Interrogative
 - Do you have to eat?
 - Do you have to drive?
@@ -20,6 +21,7 @@
 - Did you have to see?
 - Did you have to speak?
 - Did you have to buy?
+
 ## Negative
 - You don't have to sell.
 - You don't have to bring.

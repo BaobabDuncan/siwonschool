@@ -1,4 +1,4 @@
-==
+## 
 - I should be pretty.
 - You should be hot.
 - I should be cold.
@@ -10,7 +10,7 @@
 - You must be slow.
 - You must be busy.
 
-==
+##
 - I should work.
 - I should finish.
 - I should study.
@@ -22,7 +22,7 @@
 - You must eat.
 - You must meet.
 
-== not
+## not
 - I should not walk.
 - You must not buy.
 - You should not go.

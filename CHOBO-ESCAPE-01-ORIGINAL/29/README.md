@@ -7,7 +7,7 @@
 - be not going to
 - Will not be able to
 
-== Declarative
+## Declarative
 - I am going to work.
 - He is going to study.
 - You are going to be clean.
@@ -15,14 +15,16 @@
 - He is able to go.
 - You are able to avoid.
 - I will be able to learn.
-== Negative
+
+## Negative
 - I am not going to see.
 - He is not going to meet.
 - I am not able to speak.
 - You are not able to buy.
 - I will not be able to bring.
 - He will not be able to read.
-== Interrogative
+
+## Interrogative
 - Is he going to watch?
 - Are you going to drink?
 - How are you going to run?

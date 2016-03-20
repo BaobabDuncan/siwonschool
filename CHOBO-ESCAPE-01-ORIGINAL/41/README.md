@@ -1,7 +1,7 @@
 - get to
 - try to
 
-== get to
+## get to
 - If you go to school, you will get to study.
 - If I meet my friend I get to play a game.
 - If you come here you get to see the beautiful girls.
@@ -17,7 +17,8 @@
 - You not get to watch TV.
 - You not get to sell.
 - If you go to store you not get to save money.
-== try to
+
+## try to
 - I try to study.
 - I try to brush my hair.
 - You try to come here.
@@ -28,7 +29,8 @@
 - Do you try to clean?
 - Do you try to solve this problem?
 - did you try to make?
-== be trying to
+
+## be trying to
 - I am trying to solve.
 - I am trying to blame you.
 - You are trying to ask the question.
