@@ -1,0 +1,76 @@
+## 3
+- hang
+- have
+- hold
+- be independent
+- be irresponsible
+- be kind
+- speak
+- spell
+- study
+- teach
+- transfer
+- write
+- be gentle
+- be good
+- be good with
+- be late
+- take
+- take a test
+- be clean
+- be clever
+- be cold
+- be cool
+- be curious
+- be danger
+- be low
+- be lucky
+- be mean
+- be lazy
+- be light
+- be long
+- be high
+- be hot
+- be in shape
+- be busy
+- be clam
+- be cheap
+- be free
+- be fun
+- be funny
+- be hard
+- be healthy
+- be heavy
+- be bright
+- be gorgeous
+- be great
+- be good
+- be handsome
+- be happy
+- be dark
+- be dependent
+- be dirty
+- be dry
+- be dump
+- be easy
+- unload
+- unpack
+- use
+- catch
+- clean
+- climb
+- make
+- memorize
+- multiply
+- graduate
+- learn
+- listen
+- wrap
+- attach
+- attend
+- be expensive
+- be fast
+- be fat
+- sweep
+- take
+- take
