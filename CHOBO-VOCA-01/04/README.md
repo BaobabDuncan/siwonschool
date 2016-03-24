@@ -1,0 +1,20 @@
+- take some sleep
+- stand up
+- wake up
+- have a set
+- speak
+- listen
+- work
+- take some rest
+- walk
+- takeoff
+- put in it
+- study
+- go
+- teach
+- think
+- band
+- fold
+- attach
+- put
+- pile up
