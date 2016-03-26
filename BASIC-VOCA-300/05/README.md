@@ -1,0 +1,46 @@
+## 5
+- be naive
+- be naughty
+- be nervous
+- be bright
+- be gorgeous
+- be great
+- be stupid
+- be stylish
+- be thirsty
+- catch
+- clean
+- climb
+- be old
+- be old-fashioned
+- be outgoing
+- be sad
+- be safe
+- be scared
+- be sick
+- be skinny
+- be slow
+- be picky
+- be poor
+- be pretty
+- be reliable
+- be responsible
+- be rich
+- love shopping
+- talk a lot
+- talk big
+- be young
+- have a lot of money
+- look
+- be weak
+- be wet
+- be wise
+- be unlucky
+- be unreliable
+- be hot
+- be ugly
+- be unattractive
+- be uninterested
+- be serious
+- be sharp
+- be short

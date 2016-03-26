@@ -1,0 +1,46 @@
+## 06
+- be naive
+- be naughty
+- be nervous
+- be stupid
+- be stylish
+- be thirsty
+- be old
+- be old-fashioned
+- be outgoing
+- be reliable
+- be responsible
+- be rich
+- love shopping
+- talk a lot
+- talk big
+- be young
+- have a lot of money
+- look
+- be weak
+- be wet
+- be wise
+- be serious
+- be sharp
+- be short
+- business card
+- business trip
+- cab
+- brand name
+- broom
+- business
+- bookshelf
+- bookstore
+- bottoms up
+- bathtub
+- bed
+- blind date
+- autograph
+- bakery
+- bathroom
+- apartment
+- approve
+- auto repair shop
+- address
+- air conditioner
+- allergy

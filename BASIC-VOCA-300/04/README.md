@@ -1,0 +1,55 @@
+## 4
+- be responsible
+- be rich
+- be reliable
+- be short
+- be sharp
+- be serious
+- be late
+- take
+- take a test
+- be clean
+- be clever
+- be cold
+- be bright
+- be gorgeous
+- be grate
+- be hard
+- be healthy
+- be heavy
+- graduate
+- listen
+- learn
+- be naive
+- be naughty
+- be nervous
+- be stupid
+- be stylish
+- be thirsty
+- be dark
+- be dependent
+- be dirty
+- catch
+- clean
+- climb
+- be old
+- be old-fashioned
+- be outgoing
+- be independent
+- be irresponsible
+- be kind
+- be sad
+- be safe
+- be scared
+- wrap
+- attach
+- attend
+- be small
+- be smart
+- be strong
+- be picky
+- be pretty
+- be poor
+- be sick
+- be skinny
+- be slow
