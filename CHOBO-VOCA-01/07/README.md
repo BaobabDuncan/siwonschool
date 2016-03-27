@@ -1,0 +1,27 @@
+## 아이는
+- watch tv/watched tv
+- do my homework/did my homework
+- hang out/hung out
+- ask for/asked for
+- ask a question
+- answer the question
+- take a test/took a test
+- cheat/cheated
+- get it right
+- get it wrong
+- get 100 percent
+- take the English class
+- be late
+- hit me
+- make excuse
+- be picky
+- make me happy
+- make some trouble
+- bug | bother
+- play the game
+- be good at me
+- never listen
+- exercise
+- put on the earphone
+- skip
+- show up
