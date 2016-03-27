@@ -1,0 +1,40 @@
+## 09
+- be naive
+- be naughty
+- be nervous
+- be serious
+- be sharp
+- be short
+- hand break
+- hallway
+- handout
+- dress
+- dressing table
+- detergent
+- address
+- air conditioner
+- allergy
+- hospitality
+- kitchen
+- laptop
+- gas
+- gas station
+- grocery store
+- cellphone
+- chair
+- closet
+- dry cleaner's
+- elevator
+- electricity
+- apartment
+- approval
+- self repair shop
+- heater
+- highlighter
+- hot spring
+- floor cushion
+- garbage
+- fridge
+- library
+- lighter
+- living room

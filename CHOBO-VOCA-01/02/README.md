@@ -1,0 +1,21 @@
+- wake up / woke up
+- stand up / stood up
+- sit down / sat down | have a seat / had a seat | take a seat / took a seat
+- talk/talked | tell/told | speak/spoke
+- hear/heard | listen/listened
+- work/worked
+- rest|take some rest|have some rest|get some rest
+- wear/wore|put it on
+- take off/took off
+- go/went
+- think/thought
+- walk/walked
+- study/studied
+- learn/learned
+- teach/taught
+- write/wrote
+- use/used
+- pile up / piled up
+- fold
+- bend
+- put it

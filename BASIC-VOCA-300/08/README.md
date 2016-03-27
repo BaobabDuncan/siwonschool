@@ -1,0 +1,212 @@
+## 08
+- be late
+- listen
+- take a test
+- pack
+- pass
+- put
+- be absent
+- be brave
+- be bright
+- draw
+- graduate
+- fold
+- cut
+- divide
+- homework
+- be clean
+- be clever
+- be cold
+- be hard
+- be healthy
+- be heavy
+- enter
+- learn
+- take
+- be dark
+- be dependent
+- be dirty
+- warp
+- attach
+- attend
+- be independent
+- be irresponsible
+- be kind
+- be small
+- be smart
+- be strong
+- catch
+- clean
+- climb
+- fold clothes
+- follow
+- get
+- calculate
+- cheat
+- color
+- weigh
+- wipe
+- wonder
+- realize
+- take
+- share
+- be sad
+- be safe
+- be scare
+- be sick
+- be dry
+- be skinny
+- be slow
+- be picky
+- be poor
+- be pretty
+- be unlucky
+- be hot
+- be unreliable
+- be warm
+- be ugly
+- be unattractive
+- be uninterested
+- teach
+- transfer
+- write
+- talk
+- speak
+- spell
+- study
+- hold
+- knock on
+- leave
+- prepare
+- read
+- review
+- business card
+- business trip
+- cab
+- be weak
+- be wet
+- be wise
+- be young
+- have a lot of money
+- look
+- be stupid
+- be stylish
+- thirsty
+- calendar
+- capacity
+- celebrity
+- cloth store
+- coffee shop
+- comedian
+- bookshelf
+- bookstore
+- bottoms up
+- be reliable
+- be responsible
+- be rich
+- driver
+- design
+- do
+- enter
+- erase
+- finish
+- conditioner
+- contract
+- copy machine
+- desk
+- desk lamp
+- desktop computer
+- couch
+- cut-off score
+- department store
+- be expensive
+- be fast
+- be fat
+- sweep
+- take
+- be gentle
+- be good
+- be good with
+- be cool
+- be curious
+- be danger
+- be low
+- be lucky
+- be mean
+- be lazy
+- be light
+- be long
+- be high
+- be hot
+- be in shape
+- be old
+- be old-fashioned
+- be outgoing
+- be busy
+- be calm
+- be cheap
+- be free
+- be fun
+- be funny
+- cellphone
+- closet
+- chair
+- be great
+- be handsome
+- be happy
+- bring
+- take
+- bother
+- be gorgeous
+- be great
+- love shopping
+- talk a lot
+- talk big
+- brand name
+- broom
+- business
+- wait
+- walk
+- wear
+- addition
+- insert
+- answer
+- blame
+- give
+- go
+- grow
+- show
+- sleep
+- stretch
+- run
+- come
+- compare
+- address
+- air condition
+- allergy
+- department
+- approval
+- self repair store
+- autograph
+- bakery
+- bathroom
+- move
+- open
+- mop
+- live
+- load
+- make
+- hang
+- have
+- hold
+- unload
+- unpack
+- use
+- be dump
+- be easy
+- memorization
+- multiply
+- make
+- bathtub
+- bed
+- blind date

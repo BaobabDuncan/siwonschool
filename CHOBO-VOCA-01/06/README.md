@@ -1,0 +1,28 @@
+## 아빠는
+- do(does) the dishes/did the dishes
+- vacuum the floor
+- wipe the floor/wiped the floor
+- do a laundry/did a laundry
+- take out the garbage/took out the garbage
+- get a job/got a job
+- quit a job
+- do my own business/did my own business
+- does his own business
+- get promoted
+- retire/retired
+- get fired
+- lid down on the couch
+- worry/worried
+- go fishing/went fishing
+- play golf/played golf
+- take a shower
+- take a bath
+- wash my face
+- drink/drank
+- sleep in/slept in
+- park/parked
+- give me some money
+- get my salary
+- go on a business trip
+- go to work/went to work
+- get off the work / got off the work

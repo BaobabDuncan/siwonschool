@@ -1,0 +1,55 @@
+## 07
+- bookshelf
+- bookstore
+- bottoms up
+- business card
+- business trip
+- cab
+- be serious
+- be sharp
+- be short
+- be weak
+- be wet
+- be wise
+- be young
+- have a lot of money
+- look
+- old
+- old-fashioned
+- outgoing
+- be stupid
+- be stylish
+- thirsty
+- calendar
+- capacity
+- celebrity
+- cellphone
+- chair
+- closet
+- clothing store
+- coffee shop
+- comedian
+- conditioner
+- contract
+- copy machine
+- desk
+- desk lamp
+- desktop computer
+- couch
+- cut-off score
+- department store
+- be naive
+- be naughty
+- be nervous
+- address
+- air conditioner
+- allergy
+- apartment
+- approval
+- self restore store
+- autograph
+- bakery
+- bathroom
+- bathtub
+- bed
+- blind date

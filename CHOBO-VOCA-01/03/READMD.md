@@ -1,0 +1,16 @@
+## mam
+- hang/hung
+- go in/went in | get in
+- go out | get out
+- laugh / laughed
+- cry/cried
+- get pregnant
+- give a birth to a baby/gave a birth to a baby
+- go grocery shopping
+- do shopping | go shopping
+- do a makeup/did a makeup
+- put on a makeup
+- feed/fed
+- put it on
+- get ready for/got ready for
+- cook/cooked

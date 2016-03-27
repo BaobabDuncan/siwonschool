@@ -1,0 +1,27 @@
+## 05
+- sleep/slept
+  - have some sleep
+  - don't have sleep
+  - get some sleep
+  - don't get sleep
+  - take some sleep
+  - don't take sleep
+- rest/rested
+  - have some rest
+  - get some rest
+  - take some rest
+- sit down
+- have a seat
+- take a seat
+- don't take a seat
+- get in
+- get out
+- get over
+- call/called
+  - make a phone call
+  - get the phone call
+  - answer the phone call
+  - pick up the phone call
+- talk on the phone/talked on the phone
+- be on the phone
+- hang up

@@ -1,0 +1,18 @@
+- put it
+- put it in
+- put it on
+- put it under
+- put it aside
+- put it back
+- put it there
+- put it here
+- put it away
+- take out / took out
+- bring / brought
+- get / got | take / took
+- eat / ate | have / had
+- drink / drank
+- see / saw | look / looked | watch / watched | take a look / took a look
+- sleep / slept | get some sleep / got some sleep
+- be
+- try

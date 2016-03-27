@@ -1,20 +1,19 @@
-- take some sleep
-- stand up
-- wake up
-- have a set
-- speak
-- listen
-- work
-- take some rest
-- walk
-- takeoff
-- put in it
-- study
-- go
-- teach
-- think
-- band
-- fold
-- attach
-- put
-- pile up
+## mam
+- boil / boiled
+- bake / baked
+- dip /
+- steam
+- season / seasond
+- be proud of
+- get mad(angry) / got mad(angry)
+- yell at / yelled at
+- call
+- talk on the phone(be on the phone)
+- get(answer, pickup) the phone / got(answered)
+- pray
+- be on a diet
+- compare
+- chat with
+- wake up early
+- forget things
+- endure(put up with)
