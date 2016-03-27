@@ -1,0 +1,20 @@
+- I like English
+- She needs English
+- They want coffee
+- We eat dinner
+- She has a car
+- They teach English
+- Do you eat dinner?
+- Does he drink milk?
+- Do they take some rest?
+- Do you study English
+- Does she live in apartment
+- Do you take a subway?
+- Does he likes dogs?
+- Do you want a car?
+- I don't have money
+- She doesn't take a bus
+- They don't need English
+- They don't want water
+- I don't have a girl friend
+- She doesn't like English
