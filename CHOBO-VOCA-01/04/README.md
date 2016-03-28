@@ -3,7 +3,7 @@
 - bake / baked
 - dip /
 - steam
-- season / seasond
+- season / seasoned
 - be proud of
 - get mad(angry) / got mad(angry)
 - yell at / yelled at
