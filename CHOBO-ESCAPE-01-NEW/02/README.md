@@ -1,0 +1,20 @@
+- I will go to there
+- She will come to siwonschool
+- They will meet they friends
+- He will turn on the tv
+- She will finish this
+- I will work tomorrow
+- She will buy a new car
+- I will not take a bus
+- She will not drink a coffee
+- They will not study English
+- You will not make money
+- He will not work in bank
+- I will not meet my friends
+- Will you go to America?
+- Will you come here?
+- Will she meet her boyfriend?
+- Will they take a bus?
+- Will you turn off radio?
+- Will you get computer?
+- Will you make a cake?

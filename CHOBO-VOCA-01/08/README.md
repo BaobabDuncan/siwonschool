@@ -1,0 +1,14 @@
+## 연인은
+- ask her out/asked her out
+- go on a date/went on a date
+- have a date/had a date
+- say good bye/said good bye
+- go out
+- have a good time/had a good time
+- take care of each other/took care of each other
+- have some coffee together/had some coffee together
+- give(get)/gave(got)
+- share some thought
+- have a little fight/had a little fight
+- go skiing
+- cheat on/cheat it on

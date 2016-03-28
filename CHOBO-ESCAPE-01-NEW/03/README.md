@@ -1,0 +1,20 @@
+- I go to siwonschool and study English
+- I will go to America and meet my friends
+- I meet my boyfriend and see a movie
+- I will to to 동대문 and get a dress
+- Will you go home and take some sleep?
+- Do you stay at home and take a rest on the weekend?
+- I will go to America and study music
+- Do they meet together and drink coffee?
+- I will go to CGV and see a movie
+- I go to school and talk with English
+- Will you go to that restaurant and have dinner?
+- Do you go to church and play the piano?
+- I Will not meet my friends and see a movie
+- They don't work and study English
+- She doesn't have a breakfast and go to work
+- I will not go to 버거킹 and have a 햄버거
+- I will not go to church and study
+- I will not go to 서울역 and take a subway
+- They don't go home and watch tv
+- I will watch 동영상 and practice

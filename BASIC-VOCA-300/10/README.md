@@ -1,0 +1,41 @@
+## 10
+- library
+- lighter
+- living room
+- be naive
+- be nervous
+- be naughty
+- hand brake
+- handout
+- hallway
+- dress
+- dressing table
+- detergent
+- hospitality
+- kitchen
+- laptop
+- dry cleaner's
+- elevator
+- electricity
+- apartment
+- approval
+- self repair shop
+- floor cushion
+- garbage
+- fridge
+- plastic bag
+- presentation
+- printer
+- paper
+- paper clip
+- phone number
+- mod
+- movie theater
+- nail polish
+- master bedroom
+- meeting
+- microwave
+- mail
+- mask
+- maker
+- 
