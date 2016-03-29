@@ -12,3 +12,17 @@
 - have a little fight/had a little fight
 - go skiing
 - cheat on/cheat it on
+- find out/fond out
+- break out/broke out
+- get over/got over
+- miss
+- get jealousy
+- be selfish
+- don't care about me/didn't care about me
+- blame/blamed
+- give me hard time/gave me hard time
+- get engaged/got engaged
+- heart breaks
+- get nervous/got nervous
+- have a crush
+- we are good now
