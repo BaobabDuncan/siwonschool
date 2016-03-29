@@ -1,0 +1,30 @@
+## 11
+- dress
+- dressing table
+- detergent
+- promoted
+- remote control
+- purse
+- floor cushion
+- fridge
+- dry cleaner's
+- elevator
+- electricity
+- mop
+- movie theater
+- nail polish
+- master bedroom
+- meeting
+- microwave
+- apartment
+- approval
+- self repair shop
+- be naive
+- be nervous
+- be naughty
+- hospitality
+- hand break
+- hand out
+- hallway
+- kitchen
+- laptop
