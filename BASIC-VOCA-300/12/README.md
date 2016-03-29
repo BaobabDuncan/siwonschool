@@ -1,0 +1,29 @@
+- detergent
+- dress
+- dressing table
+- salaried employee
+- salary
+- salesman
+- purse
+- promotion
+- remote control
+- floor cushion
+- fridge
+- garbage
+- be naive
+- be naughty
+- be nervous
+- hospitality
+- kitchen
+- laptop
+- report
+- restaurant
+- slippers
+- soap
+- soap opera
+- signature
+- sink
+- scrap paper
+- stationery store
+- sticky note
+- stove

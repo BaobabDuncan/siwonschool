@@ -1,0 +1,25 @@
+## 회사원은
+- apply for/applied for
+- get an interview
+- pass the interview
+- get the training/got the training
+  - we got the training for a month
+- take
+  - you take sales
+- be responsible for
+  - I am responsible for this
+- do a presentation/did a presentation
+- hand in
+  - hand in your assignment
+  - hand in your homework
+- meet the deadline/met the deadline
+- miss the deadline
+- suggest/suggested
+- explain|demonstrate
+  - explain your idea
+- come up/came up
+  - come up with good idea
+  - come up with result
+- get it done/got it done
+- coworker
+- get the contract/got the contract
