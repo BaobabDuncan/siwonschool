@@ -1,19 +1,36 @@
 ## mam
 - boil / boiled
+  - She boil the water
 - bake / baked
+  - She baked cookie
 - dip /
+  - She dip her hand
 - steam
+  - She steam a rice
 - season / seasoned
 - be proud of
+  - She is proud of me
 - get mad(angry) / got mad(angry)
+  - She got mad
 - yell at / yelled at
+  - She yell at me
 - call
+  - She call to sister
 - talk on the phone(be on the phone)
+  - She took on the phone everyday
 - get(answer, pickup) the phone / got(answered)
+  - She is getting the phone
 - pray
+  - She pray for me
 - be on a diet
+  - She was on a diet
 - compare
+  - She compare me with my friend
 - chat with
+  - She chat with friend
 - wake up early
+  - She wake up early
 - forget things
+  - She forget things
 - endure(put up with)
+  - She endure

@@ -25,3 +25,4 @@
 - talk on the phone/talked on the phone
 - be on the phone
 - hang up
+  - I hang up

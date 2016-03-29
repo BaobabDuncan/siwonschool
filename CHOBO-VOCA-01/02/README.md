@@ -1,21 +1,53 @@
 - wake up / woke up
+  - I woke up at 8
+  - when do you wake up?
 - stand up / stood up
+  - I stood up
 - sit down / sat down | have a seat / had a seat | take a seat / took a seat
+  - Please have a seat
+  - I took a seat and studied English
 - talk/talked | tell/told | speak/spoke
+  - I talked with my friend
+  - You told me
+  - You spoke
 - hear/heard | listen/listened
+  - I heard that story
+  - I listen this music
 - work/worked
+  - I worked in MHR
+  - I work in FORCS
 - rest|take some rest|have some rest|get some rest
+  - You should get some rest
+  - I went to Hometown and took some rest
 - wear/wore|put it on
+  - I wear my T-shirt
+  - I put cap on
 - take off/took off
+  - I took off my pants
 - go/went
+  - I went to 동대문
+  - I go to the office
 - think/thought
+  - I thought about you
+  - I think this problem
 - walk/walked
+  - I can walk
+  - I walked when went to school
 - study/studied
+  - I studied English
 - learn/learned
+  - I learned computer
 - teach/taught
+  - I taught hybrid app
 - write/wrote
+  - I wrote blog
 - use/used
+  - I used cd-rom
 - pile up / piled up
+  - I piled up coin
 - fold
+  - I fold my couch
 - bend
+  - I bend my arm
 - put it
+  - I put paper

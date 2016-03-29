@@ -1,18 +1,38 @@
 - put it
+  - You put it
 - put it in
+  - You put money in
 - put it on
+  - You put mouse on
 - put it under
+  - You put computer under
 - put it aside
+  - You put bag aside
 - put it back
+  - You put a ball back
 - put it there
+  - You put document there
 - put it here
+  - You put cellphone here
 - put it away
+  - I put this apple away
 - take out / took out
+  - I take out pen
 - bring / brought
+  - I bring the keyboard
 - get / got | take / took
+  - I take a pen
 - eat / ate | have / had
+  - I eat dinner
 - drink / drank
+  - I drink coffee
+  - I drank milk
+  - You drank water
 - see / saw | look / looked | watch / watched | take a look / took a look
 - sleep / slept | get some sleep / got some sleep
+  - You have to get some sleep
+  - I went home and got some sleep
 - be
+  - I am here
 - try
+  - I try to find

@@ -1,16 +1,33 @@
 ## mam
 - hang/hung
+  - I hang my cab
 - go in/went in | get in
+  - I go in room
 - go out | get out
+  - You have to get out
 - laugh / laughed
+  - she laugh
+  - she laughed
 - cry/cried
+  - She cry
+  - Baby cried
 - get pregnant
+  - She got pregnant
 - give a birth to a baby/gave a birth to a baby
+  - She gave a birth to a baby
 - go grocery shopping
+  - She went grocery shopping yesterday
 - do shopping | go shopping
+  - She went shopping
 - do a makeup/did a makeup
+  - She did a makeup and went to school
 - put on a makeup
+  - She put on a makeup
 - feed/fed
+  - She feed to bird
 - put it on
 - get ready for/got ready for
+  - She got ready for dinner
 - cook/cooked
+  - She cooked lunch
+  - She cooked 불고기
