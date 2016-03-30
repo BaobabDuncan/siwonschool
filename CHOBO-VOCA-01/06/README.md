@@ -1,18 +1,31 @@
-## 아빠는
+## dad
 - do(does) the dishes/did the dishes
+  - I did the dishes yesterday
 - vacuum the floor
+  - I vacuum the floor
 - wipe the floor/wiped the floor
+  - I wipe the floor
 - do a laundry/did a laundry
+  - I did a laundry
 - take out the garbage/took out the garbage
+  - I took out the garbage
 - get a job/got a job
+  - I got a job
 - quit a job
+  - I quit a job
 - do my own business/did my own business
+  - I did my own business
 - does his own business
 - get promoted
+  - I got promoted
 - retire/retired
+  - I retired last year
 - get fired
+  - I got fired
 - lid down on the couch
+  - I lid down on the couch
 - worry/worried
+  - I worry about you
 - go fishing/went fishing
 - play golf/played golf
 - take a shower
