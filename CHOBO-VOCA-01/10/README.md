@@ -1,0 +1,18 @@
+## best driver
+- drive/drove
+- get on the car/got con the car
+- buckle your seat belt
+- unbuckle your seat belt
+  - don't unbuckle your seat belt
+- press the gas pedal|hit the gas pedal
+- press the break|hit the break
+- unleash the gas pedal
+- unleash the break
+- the traffic is heavy
+- the traffic is okay
+- take the highway
+- get on the highway
+- be on the highway
+- traffic light
+- traffic sign
+- sign
