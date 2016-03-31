@@ -1,0 +1,30 @@
+- study
+- suitcase
+- studio
+- survey
+- table
+- technology
+- stationery store
+- sticky note
+- stove
+- scrap paper
+- signature
+- sink
+- slippers
+- soap
+- soap opera
+- be naive
+- be naughty
+- be nervous
+- floor cushion
+- fridge
+- garbage
+- vacuum cleaner
+- warehouse
+- washing machine
+- towel
+- trashcan
+- tweezer
+- toilet
+- toilet paper
+- terrace

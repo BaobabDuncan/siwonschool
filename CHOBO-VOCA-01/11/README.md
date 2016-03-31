@@ -1,0 +1,17 @@
+## Drive
+- go straight
+- turn left|go left|take a left turn
+- turn right|go right|take a right turn
+- go back
+- make a u-turn
+- change the line
+- violate
+- keep/kept
+- turn on/off the left turn signal
+- turn on/off the right turn signal
+- turn on/off the emergency signal
+- cut in
+- get ticketed/got ticketed
+- fill up the gas
+- get your car started/checked/fixed
+- have an accident/had an accident

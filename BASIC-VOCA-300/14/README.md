@@ -1,0 +1,24 @@
+- floor cushion
+- garbage
+- fridge
+- be naive
+- be naughty
+- be nervous
+- report
+- restaurant
+- result
+- slippers
+- soap
+- soap opera
+- signature
+- sink
+- scrap paper
+- sticky note
+- stove
+- stationery store
+- survey
+- table
+- technology
+- studio
+- study
+- suitcase
