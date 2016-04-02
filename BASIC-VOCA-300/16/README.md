@@ -1,0 +1,279 @@
+- library
+- lighter
+- living room
+- business card
+- business trip
+- cab
+- be weak
+- be wet
+- be wise
+- be good
+- be handsome
+- be happy
+- calendar
+- capacity
+- celebrity
+- clothing store
+- coffee shop
+- comedian
+- book store
+- bottoms up
+- bookshelf
+- heater
+- highlighter
+- hot spring
+- gas
+- gas station
+- grocery market
+- attach
+- attend
+- wrap
+- be cool
+- be curious
+- be dangerous
+- be low
+- be lucky
+- be mean
+- be lazy
+- be light
+- be long
+- be high
+- be hot
+- be in shape
+- be clean
+- be smart
+- be clever
+- be cold
+- be hard
+- be health
+- be heavy
+- paper
+- clip
+- phone number
+- mail
+- marker
+- mask
+- be late
+- listen
+- take a test
+- wait
+- work
+- wear
+- insert
+- answer
+- blame
+- be busy
+- be calm
+- be cheap
+- be free
+- be fun
+- be funny
+- be gentle
+- be good
+- be good with
+- be grate
+- be bright
+- be gorgeous
+- unload
+- unpack
+- use
+- create
+- decide
+- delay
+- be stupid
+- be stylish
+- be thirsty
+- conditioner
+- contract
+- copy machine
+- be poor
+- be pretty
+- be picky
+- be unlucky
+- be hot
+- be unreliable
+- be ugly
+- be unattractive
+- be uninterested
+- cell phone
+- chair
+- closet
+- mop
+- move
+- open
+- speak
+- talk
+- tell
+- spell
+- study
+- close
+- come
+- compete
+- bakery
+- bathroom
+- autograph
+- deliver
+- design
+- do
+- be young
+- have a lot of money
+- look
+- weight
+- wipe
+- wonder
+- hospitality
+- kitchen
+- laptop
+- report
+- restaurant
+- result
+- survey
+- table
+- technology
+- hallway
+- hand break
+- hand out
+- bother
+- bring
+- give
+- go
+- grow
+- plastic bag
+- presentation
+- printer
+- detergent
+- dress
+- dressing table
+- be old
+- be old-fashioned
+- be outgoing
+- address
+- air conditioner
+- allergy
+- graduate
+- learn
+- listen
+- teach
+- transfer
+- write
+- sick
+- dry
+- skinny
+- slow
+- prepare
+- read
+- review
+- ready
+- be small
+- be smart
+- be strong
+- be absent
+- be brave
+- be blight
+- apartment
+- approval
+- self repair store
+- desk
+- desk lamp
+- desktop
+- be independent
+- be irresponsible
+- be kind
+- mop
+- movie theater
+- nail polish
+- master bedroom
+- meeting
+- microwave
+- floor cushion
+- garbage
+- be reliable
+- be responsible
+- be rich
+- be serious
+- be sharp
+- be short
+- be dark
+- be dependent
+- be dirty
+- bathtub
+- bed
+- blind date
+- take out
+- cheap
+- pass
+- put
+- walk
+- hang
+- have
+- catch
+- hold
+- live
+- load
+- make
+- mold
+- salaried employee
+- salary
+- salesman
+- be sad
+- be safe
+- be scare
+- scrap paper
+- sink
+- signature
+- promoted
+- remote control
+- calculate
+- cheat
+- color
+- be expensive
+- be fast
+- be fat
+- couch
+- dead line
+- department store
+- love shopping
+- talk big
+- talk a lot
+- brand name
+- broom
+- business
+- clean
+- climb
+- sweep
+- take
+- be dump
+- be easy
+- realize
+- share
+- emphasize
+- empty
+- enjoy
+- enter
+- fold
+- draw
+- cut
+- divide
+- do homework
+- slippers
+- soap
+- soap opera
+- break
+- brush
+- come
+- hold
+- leave
+- knock on
+- fold clothes
+- follow
+- make
+- memorization
+- multiply
+- erase
+- finish
+- show
+- sleep
+- stretch
+- dry cleaner's
+- elevator
+- electricity
