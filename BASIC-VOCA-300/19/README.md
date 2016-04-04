@@ -1,0 +1,11 @@
+- terrace
+- toilet
+- be naive
+- be naughty
+- stationary store
+- sticky note
+- fridge
+- celebrity
+- stretch
+- be gorgeous
+- be good with

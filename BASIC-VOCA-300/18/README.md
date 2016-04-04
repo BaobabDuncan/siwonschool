@@ -1,0 +1,39 @@
+- tower
+- trashcan
+- tweezer
+- be serious
+- be sharp
+- be short
+- climb
+- clean
+- catch
+- vacuum cleaner
+- warehouse
+- washing machine
+- toilet
+- toilet paper
+- terrace
+- be naive
+- be naughty
+- be nervous
+- emphasize
+- empty
+- enjoy
+- sticky note
+- stove
+- stationary store
+- floor cushion
+- fridge
+- garbage
+- survey
+- table
+- technology
+- celebrity
+- calender
+- capacity
+- show
+- stretch
+- erase
+- finish
+- enter
+- be gorgeous
