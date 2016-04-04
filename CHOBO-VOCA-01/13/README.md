@@ -1,0 +1,19 @@
+- be pretty
+- be beautiful
+- be kind
+- be outgoing
+- be skinny
+- be picky
+- be healthy
+- be in shape
+- be out of shape
+- be attractive
+- be gorgeous
+- be smart
+- be logical
+- be reasonable
+- be cute
+- talk a lot
+- loves shopping
+- be in love
+- have beautiful eyes
