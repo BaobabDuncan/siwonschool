@@ -1,0 +1,50 @@
+- attach/attached
+- attend/attended
+- calculate/calculated
+- cheat/cheated
+- color/colored
+- cut/cut
+- divide/divided
+- do my homework/did my homework
+- draw/drew
+- enter/entered
+- fold/folded
+- graduate/graduated
+- learn/learned
+- listen/listened
+- make/made
+- memorize/memorized
+- multiply/multiplied
+- prepare/prepared
+- read/read
+- review/reviewed
+- speak/spoke
+- spell/spelled
+- study/studied
+- be late/was(were) late
+- take/took
+- take a test/took a test
+- teach/taught
+- transfer/transferred
+- write/wrote
+- be absent/was(were) absent
+- blackboard
+- exam
+- break
+- graduation
+- classroom
+- high school
+- junior high school
+- elementary school
+- college
+- leave of absence
+- major
+- paper
+- rule
+- scholarship
+- school dropout
+- the first day of classes
+- the last day of classes
+- timetable
+- uniform
+- university

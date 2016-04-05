@@ -1,5 +1,0 @@
-- attach/attached
-- attend/attended
-- calculate/calculated
-- cheat/cheated
-- color/colored
