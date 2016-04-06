@@ -48,3 +48,106 @@
 - timetable
 - uniform
 - university
+## Midterm Exam
+### voca
+- attach
+- attend
+- calculate
+- cheat
+- color
+- attached
+- attended
+- calculated
+- cheated
+- color->colored
+- cut
+- divide
+- do homework
+- draw
+- enter
+- cut
+- divided
+- did homework
+- drow->drew
+- entered
+- fold
+- graduate
+- learn
+- listen
+- make
+- folded
+- graduated
+- learned
+- listened
+- made
+- memorize
+- multiply
+- prepare
+- read
+- review
+- memorized
+- multiplyed->multiplied
+- prepared
+- read
+- reviewed
+- speak
+- spell
+- study
+- be late
+- take
+- spoke
+- spelled
+- studied
+- was(were) late
+- took
+- take a test
+- teach
+- transffer->transfer
+- write
+- absent
+- took a test
+- thouth->taught
+- transfferred->transferred
+- writed->wrote
+- absented
+- blackboard
+- break
+- classroom
+- college
+- elementray school->elementary school
+- exam
+- graduation
+- high school
+- jonior high school->junior high school
+- leave of absence
+- major
+- paper
+- rule
+- schollaship->scholarship
+- school dropout
+- the first day of class
+- the last of day of class
+- timetable
+- uniform
+- university
+### sentence
+- attend class
+- never cheated
+- do my homework at school
+- I entered high school
+- graduate from high school
+- make it
+- learned about music
+- I listened to it
+- memorize a lot of words
+- read it again
+- reviewed today's class
+- speak loudly
+- study English
+- You are late
+- take the Korean class
+- be absent from class
+- took a speaking test
+- play during the break
+- did well on the exam
+- meet him at his graduation
