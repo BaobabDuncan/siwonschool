@@ -1,0 +1,20 @@
+- The watch is not expensive
+- We are not sick
+- This restaurant is not clean
+- This book is easy and interesting
+- This system is not easy
+- She is not busy today
+- English is fun and attractive
+- I am good at tennis
+- This 스파게티 is good
+- He is hungry and her is not hungry
+- Is this food salty?
+- He is not nervous at all
+- They are angry
+- Is your house far from here?
+- they are bored now
+- Are they happy?
+- Is she beautiful?
+- Is he smart?
+- I was old and he was young
+- Are you busy?
