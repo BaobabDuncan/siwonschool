@@ -126,7 +126,7 @@
 - schollaship->scholarship
 - school dropout
 - the first day of class
-- the last of day of class
+- the last day of class
 - timetable
 - uniform
 - university
