@@ -1,0 +1,30 @@
+- be nice
+  - looks nice
+- be handsome
+- be sharp
+- be wise
+- be humble
+- be gentle
+- be tail
+- be generous
+- be funny
+- be brave
+- be positive
+- be negative
+- be fun to be with
+- be stupid
+- be deep
+- be filthy
+- be ambitious
+- has a lot of money
+- be full of himself
+- has pride
+- be cold
+- be warm
+- be intelligent
+- talks big
+- be diligent
+- be trustworthy
+- be strong
+- be big and strong
+- has bed temper
