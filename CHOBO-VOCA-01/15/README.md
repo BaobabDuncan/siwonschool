@@ -1,0 +1,22 @@
+- be sunny
+  - It's sunny today
+- have lot of sunshine
+  - We will have lot of sunshine
+- get lot of sunshine
+- be rainy
+- have lot of rainy
+  - We will have lot of rainy
+- get lot of rainy
+- be cloudy
+- have lot of cloudy
+- get lot of cloudy
+- be windy
+- be foggy
+- be cold
+- be chilly
+- be freezing
+- be hot
+- be stormy
+- be thunder storm
+- be dark
+- be bright

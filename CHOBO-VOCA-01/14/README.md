@@ -28,3 +28,5 @@
 - be strong
 - be big and strong
 - has bed temper
+- be aggressive
+- be passionate
