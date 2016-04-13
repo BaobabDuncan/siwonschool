@@ -194,7 +194,7 @@
 - gave a book
 - give me this book
 - go home
-- don't had money
+- had not money
 - knock on the door
 - lived in Seoul
 - open the door
