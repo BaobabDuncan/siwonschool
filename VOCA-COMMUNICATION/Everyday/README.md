@@ -64,3 +64,139 @@
 - wipe/wiped
 - wonder/wondered
 - wrap/wrapped
+## Midterm Exam
+### voca
+- add
+- buy
+- enjoy
+- answer
+- clean
+- enter
+- blame
+- climb
+- erase
+- bother
+- close
+- finish
+- bring
+- come
+- fold cloths
+- added
+- bougth->bought
+- follow
+- answered
+- create
+- get
+- bothered
+- delay
+- finished
+- brought
+- deriver
+- foled cloths->folded clothes
+- take
+- design
+- followed
+- took
+- created
+- got
+- brush
+- decide
+- give
+- call
+- delayed
+- go
+- catch
+- delivered
+- grow
+- brought
+- do
+- take
+- brushed
+- emphasize
+- gave
+- called
+- empty
+- went
+- caougth->caught
+- enjoyed
+- grew
+- cleaned
+- entered
+- walked
+- climbed
+- did
+- got
+- closed
+- emphasized
+- come
+- emptied
+- hold
+- knock on
+- passed
+- unload
+- leave
+- unpack
+- live
+- realize
+- use
+- held
+- take
+- wait
+- devide
+- walk
+- knocked on
+- show
+- unloaded
+- leaved
+- sleep
+- unpacked
+- lived
+- used
+- load
+- sweep
+- waited
+- mold
+- devided
+- hong
+- showed
+- ware
+- move
+- sltep
+- weight
+- open
+- molded
+- take out
+- wrap
+- select
+- wared
+- moved
+- weighted
+- opened
+- wonder
+- pass
+- put
+- selected
+- realized
+- pack
+- took out
+### sentence
+- answer to me now
+- bring my sister
+- catch the ball
+- caught last train
+- clean you room
+- closed my eyes
+- came from Seoul
+- he decided
+- enjoy the sing
+- entered the cafe
+- finish your homework
+- gave a book
+- give me this book
+- go home
+- don't had money
+- knock on the door
+- lived in Seoul
+- open the door
+- put you bag in here
+- sleep all the time
