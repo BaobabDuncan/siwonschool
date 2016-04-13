@@ -1,0 +1,136 @@
+- ask/asked
+- agree/agreed
+- be unemployed/was(were) unemployed
+- call/called
+- disagree/disagreed
+- misunderstand/misunderstood
+- fail/failed
+- finish work/finished work
+- fire/fired
+- get a job/got a job
+- get a pay raise/got a pay raise
+- get a promotion/got a promotion
+- get approved/got approved
+- get coached/got coached
+- make excuses/made excuses
+- get off work/got off work
+- get paid/got paid
+- get training/got graining
+- go on a business trip/went on a business trip
+- go on vacation/went on vacation
+- go to work/went to work
+- hang up/hung up
+- have a meeting/had a meeting
+- have a presentation/had a presentation
+- hire/hired
+- leave a message/left a message
+- make/made
+- pick up the phone/picked up the phone
+- quit a job/quit a job
+- retire/retired
+- run a business/ran a business
+- start work/started work
+- succeed/succeeded
+- talk a day off/took a day off
+- talk/talked
+- talk on the phone/talked on the phone
+- think/thought
+- work/worked
+- work abroad/worked abroad
+- write report/wrote report
+## Midterm Exam
+### voca
+- ask
+- get a pay raise
+- agree
+- get a promotion
+- be unemployed
+- get approved
+- call
+- get a coached
+- disagree
+- make excuses
+- asked
+- got a pay raise
+- agreed
+- got a promotion
+- was(were) unemployed
+- got approved
+- disagreed
+- made excuses
+- go off work
+- fail
+- get a paid
+- finish work
+- get a training
+- go on a business trip
+- get a job
+- go on vacation
+- went off work
+- failed
+- get a paid
+- finished work
+- got a training
+- fired
+- went on a business trip
+- got a job
+- went on vacation
+- go to work
+- run a business
+- hang up
+- start work
+- have a meeting
+- succeed
+- have a presentation
+- take a day off
+- hire
+- talk
+- went to work
+- ran a business
+- hung up
+- succeeded
+- had a presentation
+- took a day off
+- hired
+- talked
+- leave a message
+- talk on the phone
+- make
+- think
+- get a phone
+- work
+- quit a job
+- work abroad
+- retire
+- write report
+- left a message
+- talked on the phone
+- made
+- thought
+- picked up the phone
+- worked
+- quit a job
+- worked abroad
+- retired
+- wrote report
+### sentence
+- ask him a question
+- I agree
+- I am unemployed
+- called her tonight
+- discuss the problem
+- get a job here
+- can fired
+- get a little pay raise
+- get off work a little late
+- went on vacation for a week
+- go to work by car
+- don't hang up
+- have a meeting today
+- want to leave a message
+- can't pick up the phone
+- quit a job soon
+- made her write a report
+- start work immediately
+- talk about him
+- talk on the phone all night
