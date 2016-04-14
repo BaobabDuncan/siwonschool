@@ -59,7 +59,7 @@
 - use/used
 - wait/waited
 - walk/walked
-- were/wore
+- wear/wore
 - weight/weighted
 - wipe/wiped
 - wonder/wondered
