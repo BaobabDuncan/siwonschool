@@ -1,0 +1,63 @@
+- have a cold/had a clod
+- have a headache/had a headache
+- have a stomachache/had a stomachache
+- have a fever/had a fever
+- have a disease/had a disease
+- have an injury/had a injury
+- have good eyesight/had good eyesight
+- have a runny nose/had a runny nose
+- have poor eyesight/had poor eyesight
+- have a sore throat/had a sore throat
+- have plastic surgery/had plastic surgery
+- fall/fell
+- get sick/got sick
+- get well/got well
+- not feel well/didn't fell well
+- have a toothache/had a toothache
+- have diarrhea/had diarrhea
+- have no appetite/had no appetite
+- have surgery/had surgery
+- leave the hospital/left the hospital
+- ache all over/ached all over
+- be hospitalized/was(were) hospitalized
+- cough/coughed
+- prescribe/prescribed
+- see a doctor/saw a doctor
+- sneeze/sneezed
+- take the temperature/took the temperature
+- take the blood pressure/took the blood pressure
+- take the medicine/took the medicine
+- throw up/threw up
+- get back/got back
+- get off/got off
+- get on/got on
+- get to/got to
+- look into/looked into
+- put on/put on
+- take a bath/took a bath
+- take a shower/took a shower
+- take off/took off
+- yawn/yawned
+- band-aid
+- nurse
+- doctor
+- patient
+- emergency
+- prescription
+- height
+- reception
+- medicine
+- shot
+- surgery
+- be warm
+- temperature
+- be chilly
+- treatment
+- be dry
+- weight
+- be humid
+- be sunny
+- be cloudy
+## Midterm Exam
+### voca
+- 
