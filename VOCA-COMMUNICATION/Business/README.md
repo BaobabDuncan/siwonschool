@@ -31,7 +31,7 @@
 - run a business/ran a business
 - start work/started work
 - succeed/succeeded
-- talk a day off/took a day off
+- take a day off/took a day off
 - talk/talked
 - talk on the phone/talked on the phone
 - think/thought
