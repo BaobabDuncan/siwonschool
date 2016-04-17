@@ -1,0 +1,10 @@
+- ask for/asked for
+- be bitter/was(were) bitter
+- be hot/was(were) hot
+- be salty/was(were) salty
+- be sour/was(were) sour
+- be sweet/was(were) sweet
+- boil/boiled
+- book/booked
+- burn/burned
+- cancel the reservation/canceled the reservation

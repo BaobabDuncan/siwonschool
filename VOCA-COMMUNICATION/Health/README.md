@@ -58,6 +58,3 @@
 - be humid
 - be sunny
 - be cloudy
-## Midterm Exam
-### voca
-- 
