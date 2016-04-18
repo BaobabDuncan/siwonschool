@@ -8,3 +8,18 @@
 - book/booked
 - burn/burned
 - cancel the reservation/canceled the reservation
+- chop/chopped
+- cook/cooked
+- deep fry/deep fried
+- defrost/defrosted
+- drink/drank
+- eat/ate
+- eat out/ate out
+- eat too much/ate too much
+- freeze/froze
+- fry/fried
+- get me/got me
+- get the change/got the change
+- give the change/gave the change
+- work/worked
+- knead/kneaded
