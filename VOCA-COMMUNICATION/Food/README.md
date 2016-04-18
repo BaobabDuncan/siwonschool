@@ -23,3 +23,18 @@
 - give the change/gave the change
 - work/worked
 - knead/kneaded
+- go dutch/go dutch
+- leave a tip/left a tip
+- return/returned
+- order/ordered
+- pay the bill/paid the bill
+- peel/peeled
+- see the menu/saw the menu
+- share the bill/shared the bill
+- slice/sliced
+- stir/stirred
+- take the order/took the order
+- treat/treated
+- wrap the leftover/wrapped the leftover
+- be a lot/be not enough
+- be full/be hungry
