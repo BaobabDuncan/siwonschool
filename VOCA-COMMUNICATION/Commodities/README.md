@@ -1,0 +1,40 @@
+- address
+- self repair shop
+- air conditioner
+- autograph
+- allergy
+- bedroom
+- apartment
+- bakery
+- approval
+- bathroom
+- bathtub
+- bottoms up
+- bed
+- brand name
+- blind date
+- broom
+- bookshelf
+- business
+- bookstore
+- business card
+- business trip
+- cellphone
+- cab
+- chair
+- calender
+- closet
+- camera
+- clothing store
+- celebrity
+- coffee shop
+- comedian
+- cut-off score
+- conditioner
+- department store
+- contract
+- desk
+- copy machine
+- desk lamp
+- couch
+- desktop computer
