@@ -38,3 +38,43 @@
 - desk lamp
 - couch
 - desktop computer
+- detergent
+- e-mail
+- dress
+- floor cushion
+- dresser
+- dry cleaner
+- garbage
+- elevator
+- gas
+- fridge
+- gas station
+- heater
+- grocery store
+- highlighter
+- hallway
+- hot spring
+- hand brake
+- hotel
+- handout
+- kitchen
+- laptop
+- marker
+- library
+- mask
+- lighter
+- master bedroom
+- living room
+- meeting
+- mail
+- microwave
+- mop
+- phone number
+- movie theater
+- plastic bag
+- nail polish
+- playing cards
+- paper
+- printer
+- paper clip
+- promotionc
