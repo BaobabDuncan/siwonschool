@@ -77,4 +77,24 @@
 - paper
 - printer
 - paper clip
-- promotionc
+- promotion
+- purse
+- result
+- questionnaire
+- salaried employee
+- remote control
+- salary
+- report
+- scarf
+- restaurant
+- scratch paper
+- signature
+- soda
+- sink
+- stair
+- slippers
+- stapler
+- soap
+- stationery store
+- soap opera
+- sticky note
