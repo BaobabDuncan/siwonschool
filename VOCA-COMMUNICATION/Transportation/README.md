@@ -1,0 +1,15 @@
+- car accident
+- traffic light
+- intersection
+- small accident
+- driver's license
+- speed limit
+- roadway
+- traffic congestion
+- parking lot
+- traffic sign
+- be towed/was towed
+- buckle the seat belt/buckled the seat belt
+- change the lane/changed the lane
+- cross the street/crossed the street
+- drive/drove
