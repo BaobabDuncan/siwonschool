@@ -98,3 +98,23 @@
 - stationery store
 - soap opera
 - sticky note
+- stove
+- telephone
+- studio
+- terrace
+- study
+- toilet
+- suitcase
+- toilet paper
+- table
+- towel
+- trashcan
+- wall clock
+- TV
+- warehouse
+- twezzer
+- wash basin
+- vacation
+- washing machine
+- vaccum cleaner
+- zipper
