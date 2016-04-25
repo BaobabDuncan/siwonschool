@@ -13,3 +13,13 @@
 - change the lane/changed the lane
 - cross the street/crossed the street
 - drive/drove
+- fill up the gas tank/filled up the gas tank
+- get a ticket/got a ticket
+- get broken/got broken
+- get carsick/got carsick
+- get on the car/got on the car
+- get out of the car/got out of the car
+- get the car checked/got the car checked
+- get the car fixed/got the car fixed
+- get the driver's license/got the driver's license
+- go backwards/went backwards
