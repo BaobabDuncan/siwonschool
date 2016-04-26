@@ -23,3 +23,18 @@
 - get the car fixed/got the car fixed
 - get the driver's license/got the driver's license
 - go backwards/went backwards
+- go straight/went straight
+- have a flat tire/had a flat tire
+- have an accident/had an accident
+- make a U-turn/mad a U-turn
+- miss the bus/missed the bus
+- park/parked
+- violate/violated
+- rent a car/rented a car
+- roll down the window/rolled down the window
+- roll up the window/rolled up the window
+- skid/skidded
+- start the car/started the car
+- stop the car/stopped the car
+- take a shortcut/took a shortcut
+- wash the car/washed the car
