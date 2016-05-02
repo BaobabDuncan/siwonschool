@@ -58,3 +58,38 @@
 - be outgoing
 - be picky
 - be playful
+- be poor
+- be pretty
+- be reliable
+- be responsible
+- be rich
+- be sad
+- be safe
+- be scared
+- be serious
+- be sharp
+- be short
+- be sick
+- be skinny
+- be slow
+- be small
+- be smart
+- be strong
+- be stupid
+- be stylish
+- be thirsty
+- be ugly
+- be unattractive
+- be uninterested
+- be unlucky
+- be unreliable
+- be warm
+- be weak
+- be wet
+- be wise
+- be young
+- have a lot of money/had a lot of money
+- look/looked
+- love shopping/loved shopping
+- talk a lot/talked a lot
+- talk big/talked big
