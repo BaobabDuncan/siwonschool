@@ -28,3 +28,33 @@
 - be fast
 - be fat
 - be free
+- be fun
+- be funny
+- be gentle
+- be good
+- be good with
+- be gorgeous
+- be handsome
+- be happy
+- be hard
+- be healthy
+- be heavy
+- be high
+- be hot
+- be in shape
+- be independent
+- be irresponsible
+- be kind
+- be lazy
+- be light
+- be long
+- be low
+- be lucky
+- be mean
+- be nervous
+- be old
+- be old-fashioned
+- be out of shape
+- be outgoing
+- be picky
+- be playful
