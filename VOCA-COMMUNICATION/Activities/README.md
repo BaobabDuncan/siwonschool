@@ -1,0 +1,10 @@
+- arrange a meeting/arranged a meeting
+- ask out/asked out
+- ask the price/asked the price
+- be on a diet/was on a diet
+- board/boarded
+- book a hotel/booked a hotel
+- cancel/canceled
+- choose/chose
+- climb the mountain/climbed the mountain
+- do the hair/did the hair
