@@ -8,3 +8,18 @@
 - choose/chose
 - climb the mountain/climbed the mountain
 - do the hair/did the hair
+- do weight training/did weight training
+- dye/dyed
+- enter a country/entered a country
+- exchange/exchanged
+- exercise/exercised
+- fall in love/fell in love
+- gain weight/gained weight
+- get a discount/got a discount
+- get a haircut/got a haircut
+- get a passport/got a passport
+- get a perm/got a perm
+- get a receipt/got a receipt
+- get a refund/got a refund
+- get a train ticket/got a train ticket
+- get a engaged/got a engaged
