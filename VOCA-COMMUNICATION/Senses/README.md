@@ -38,3 +38,33 @@
 - watch/watched
 - wear perfume/wore perfume
 - yell/yelled
+- be new
+- be amazed
+- be awful
+- be bed
+- be cheerful
+- be closed
+- be comfortable
+- be confident
+- be dishonest
+- be early
+- be empty
+- be excellent
+- be fine
+- be flat
+- be foggy
+- be full
+- be generous
+- be honest
+- be hot
+- be huge
+- be humble
+- be hurt
+- be impatient
+- be jealous
+- be late
+- be little
+- be loose
+- be mean
+- be messy
+- be miserable
