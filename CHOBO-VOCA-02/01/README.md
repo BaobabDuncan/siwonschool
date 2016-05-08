@@ -1,0 +1,17 @@
+- leave/left
+- leave it here.
+- leave it there.
+- leave it on the desk.
+- leave it on the floor.
+- leave it on the table.
+- leave me alone.
+- leave him alone.
+- leave us alone.
+- leave me out.
+  - this time leave him out.
+  - this time leave me out.
+- leave it on.
+- leave it for 5 minutes.
+- leave it closed.
+- left it on.
+- left it under.
