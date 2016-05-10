@@ -1,0 +1,15 @@
+- accept the result/accepted the result
+- be against the rules/was against the rules
+- chat with/chatted with
+- check the balance/checked the balance
+- divide into teams/divided into teams
+- do the best/did the best
+- do the dishes/did the dishes
+- do the laundry/did the laundry
+- drop the class/dropped the class
+- earn interest/earned interest
+- get a bad grade/got a bad grade
+- get a degree/got a degree
+- get a good grade/got a good grade
+- get a loan/got a loan
+- get ahead/got ahead
