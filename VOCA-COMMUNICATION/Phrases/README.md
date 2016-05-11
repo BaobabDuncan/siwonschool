@@ -13,3 +13,22 @@
 - get a good grade/got a good grade
 - get a loan/got a loan
 - get ahead/got ahead
+- get along/got along
+- get away/got away
+- get down/got down
+- get him/got him
+- get in/got in
+- get it done/got it done
+- get me/got me
+- get me into/got me into
+- get out/got out
+- get ready/got ready
+- get scolded/got scolded
+- get up/got up
+- go in/went in
+- have a test/had a test
+- line up/lined up
+- look back/looked back
+- look down on/looked down on
+- look for/looked for
+- look forward to/looked forward to
