@@ -32,3 +32,18 @@
 - look down on/looked down on
 - look for/looked for
 - look forward to/looked forward to
+- look out for/looked out for
+- look thought/looked thought
+- look up/looked up
+- look up to/looked up to
+- make a decision/ made a decision
+- major in/majored in
+- make a phone call/make a phone call
+- make sure/made sure
+- make an account/made an account
+- pass the test/passed the test
+- pay back/paid back
+- pick it up/picked it up
+- pick up/picked up
+- play fair/played fair
+- put back/put back
