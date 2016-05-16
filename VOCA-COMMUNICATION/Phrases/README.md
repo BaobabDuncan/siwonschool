@@ -47,3 +47,17 @@
 - pick up/picked up
 - play fair/played fair
 - put back/put back
+- put down
+- put in
+- put it back
+- put it down
+- put it in
+- put it on
+- put it there
+- put it together
+- put under
+- put up there
+- register for classes/registered for classes
+- save money/saved money
+- say hello/said hello
+- sit down/sat down
