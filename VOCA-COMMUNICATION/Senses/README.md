@@ -1,0 +1,100 @@
+- joke/joked
+- bet/bet
+- boil/boiled
+- brush the hair/brushed the hair
+- brush the teeth/brushed the teeth
+- carry/carried
+- cheer/cheered
+- cry/cried
+- find/found
+- have clouds/had clouds
+- have rain/had rain
+- have snow/had snow
+- have sunshine/had sunshine
+- hear/heard
+- iron/ironed
+- laugh/laughed
+- look/looked
+- move/moved
+- pick out the clothes/picked out the clothes
+- recycle/recycled
+- ring the doorbell/rang the doorbell
+- see/saw
+- small/smalled
+- smile/smiled
+- steam/steamed
+- touch/touched
+- turn off the light/turned off the light
+- turn off the TV/turned off the TV
+- turn on the light/turned on the light
+- turn on the TV/turned on the TV
+- turn to channel/turned to channel
+- turn down the volume/turn down the volume
+- turn up the volume/turn up the volume
+- vacuum/vacuumed
+- wash the face/washed the face
+- wash the hair/washed the hair
+- waste/wasted
+- watch/watched
+- wear perfume/wore perfume
+- yell/yelled
+- be new
+- be amazed
+- be awful
+- be bed
+- be cheerful
+- be closed
+- be comfortable
+- be confident
+- be dishonest
+- be early
+- be empty
+- be excellent
+- be fine
+- be flat
+- be foggy
+- be full
+- be generous
+- be honest
+- be hot
+- be huge
+- be humble
+- be hurt
+- be impatient
+- be jealous
+- be late
+- be little
+- be loose
+- be mean
+- be messy
+- be miserable
+- be modern
+- be narrow
+- be nasty
+- be neat
+- be nice
+- be noisy
+- be old
+- be open
+- be patient
+- be pleased
+- be polite
+- be proud
+- be quick
+- be quiet
+- be respectful
+- be rough
+- be rude
+- be satisfied
+- be selfish
+- be shocked
+- be shy
+- be slow
+- be stormy
+- be thick
+- be thin
+- be tight
+- be traditional
+- be uncomfortable
+- be wide
+- be windy

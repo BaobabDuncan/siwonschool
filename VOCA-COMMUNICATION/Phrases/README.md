@@ -1,0 +1,49 @@
+- accept the result/accepted the result
+- be against the rules/was against the rules
+- chat with/chatted with
+- check the balance/checked the balance
+- divide into teams/divided into teams
+- do the best/did the best
+- do the dishes/did the dishes
+- do the laundry/did the laundry
+- drop the class/dropped the class
+- earn interest/earned interest
+- get a bad grade/got a bad grade
+- get a degree/got a degree
+- get a good grade/got a good grade
+- get a loan/got a loan
+- get ahead/got ahead
+- get along/got along
+- get away/got away
+- get down/got down
+- get him/got him
+- get in/got in
+- get it done/got it done
+- get me/got me
+- get me into/got me into
+- get out/got out
+- get ready/got ready
+- get scolded/got scolded
+- get up/got up
+- go in/went in
+- have a test/had a test
+- line up/lined up
+- look back/looked back
+- look down on/looked down on
+- look for/looked for
+- look forward to/looked forward to
+- look out for/looked out for
+- look thought/looked thought
+- look up/looked up
+- look up to/looked up to
+- make a decision/ made a decision
+- major in/majored in
+- make a phone call/make a phone call
+- make sure/made sure
+- make an account/made an account
+- pass the test/passed the test
+- pay back/paid back
+- pick it up/picked it up
+- pick up/picked up
+- play fair/played fair
+- put back/put back

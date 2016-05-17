@@ -1,0 +1,95 @@
+- be ambitious
+- be attractive
+- be afraid
+- be bad
+- be angry
+- be beautiful
+- be arrogant
+- be big
+- be ashamed
+- be brave
+- be bright
+- be busy
+- be calm
+- be cheap
+- be clean
+- be clever
+- be cold
+- be cool
+- be curious
+- be dangerous
+- be dark
+- be dependent
+- be dirty
+- be dry
+- be dump
+- be easy
+- be expensive
+- be fast
+- be fat
+- be free
+- be fun
+- be funny
+- be gentle
+- be good
+- be good with
+- be gorgeous
+- be handsome
+- be happy
+- be hard
+- be healthy
+- be heavy
+- be high
+- be hot
+- be in shape
+- be independent
+- be irresponsible
+- be kind
+- be lazy
+- be light
+- be long
+- be low
+- be lucky
+- be mean
+- be nervous
+- be old
+- be old-fashioned
+- be out of shape
+- be outgoing
+- be picky
+- be playful
+- be poor
+- be pretty
+- be reliable
+- be responsible
+- be rich
+- be sad
+- be safe
+- be scared
+- be serious
+- be sharp
+- be short
+- be sick
+- be skinny
+- be slow
+- be small
+- be smart
+- be strong
+- be stupid
+- be stylish
+- be thirsty
+- be ugly
+- be unattractive
+- be uninterested
+- be unlucky
+- be unreliable
+- be warm
+- be weak
+- be wet
+- be wise
+- be young
+- have a lot of money/had a lot of money
+- look/looked
+- love shopping/loved shopping
+- talk a lot/talked a lot
+- talk big/talked big
