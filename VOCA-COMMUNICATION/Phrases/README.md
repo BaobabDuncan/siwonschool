@@ -61,3 +61,16 @@
 - save money/saved money
 - say hello/said hello
 - sit down/sat down
+- sleep in/slept in
+- stand up/stood up
+- study for the test/studied for the test
+- take a look/took a look
+- take in/took in
+- take out/take out
+- take out the garbage/took out the garbage
+- vacuum the floor/vacuumed the floor
+- watch a game/watched a game
+- watch the weather forecast/watched the weather forecast
+- wipe the floor/wiped the floor
+- withdraw money/withdrew money
+- wrap it up/wrapped it up
