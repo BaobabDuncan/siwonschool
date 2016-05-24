@@ -1,0 +1,28 @@
+- get/got
+- get over
+  - you must get over this.
+  - did you get him over?
+- get back
+- get it back
+  - did you get it back?
+  - did you get your pen back?
+- get off
+  - are you getting off?
+  - get off me
+  - get off the work
+- get down
+- get him
+- get around
+  - don't get around here
+- get away
+  - It's okay. don't get away
+- get away with
+  - you can't get away with this
+- get ~ ready
+  - get the pen ready
+  - get your team ready
+  - did you get yourself ready?
+- get in
+  - get me in
+- get out
+  - get me out
