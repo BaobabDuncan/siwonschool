@@ -1,0 +1,21 @@
+- take
+- take it
+- take that
+- take this
+- take it back/took it back
+  - he took his money back
+- take it away/took it away
+  - don't take her away
+  - take my money away
+- take it down/took it down
+  - take him down
+- take 30 minutes.
+- take a day.
+- take 2 months.
+- take a rest.
+- take a shower.
+- take a break.
+- take this change.
+- take this opportunity.
+- take a lot of effort.
+- take this class.
