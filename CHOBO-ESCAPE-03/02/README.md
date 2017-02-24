@@ -1,0 +1,32 @@
+- Have you seen the Avatar?
+    - I have seen the Avatar.
+    - I haven't seen the Avatar.
+- Where did you see the Avatar?
+    - I didn't see the Avatar.
+- Where did you see the movie?
+    - I saw the movie in COEX.
+- Have you tried 굽네치킨 before?
+    - I have tried 굽네치킨 before.
+    - I haven't tried 굽네치킨 before.
+- Where did you try that?
+    - I try that in hometown.
+- Have you been to Tokyo?
+    - I have been to Tokyo.
+    - I haven't been to Tokyo.
+- Have you tried star-backs coffee?
+    - I have tried star-backs coffee.
+    - I haven't tried star-backs coffee.
+- Have you studied Chinese?
+    - I have studied Chinese.
+    - I haven't studied Chinese.
+- Have you been here before?
+    - I have been here before.
+    - I haven't been here before.
+- Have you tried the roller coaster?
+    - I have tried the roller coaster.
+    - I haven't tried the roller coaster.
+- How was it?
+    - It was fantastic.
+- Have you tried paprika burger?
+     - I have tried paprika burger.
+     - I haven't tried paprika burger.

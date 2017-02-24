@@ -1,0 +1,30 @@
+- Did you take a shower?
+    - I took a shower.
+    - I didn't take a shower.
+- Did you take a shower this morning?
+    - I took a shower this morning.
+    - I didn't take a shower this morning.
+- Did you go to star-bucks and drink coffee?
+    - I went to star-bucks and drunk coffee.
+    - I didn't go to star-bucks and drink coffee.
+- Have you worked?
+    - I have worked.
+    - I haven't worked.
+- Have you worked here before?
+    - I have worked here before.
+    - I haven't worked here before.
+- Have you been to Japan?
+    - I have been to Japan.
+    - I haven't been to Japan.
+- Did you go to Tokyo?
+    - I went to Tokyo.
+    - I didn't go to Tokyo.
+- Did you see the movie?
+    - I saw the movie.
+    - I didn't see the movie.
+- Have you seen the movie?
+    - I have seen the movie.
+    - I haven't seen the movie.
+- Did you have breakfast?
+    - I had breakfast.
+    - I didn't have breakfast.
