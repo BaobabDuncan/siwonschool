@@ -1,0 +1,21 @@
+- People watching TV.
+- People working in Africa.
+- People working in Kang-Nam.
+- Bus going to Jong-no.
+- Bus going to Kang-Nam.
+- People waiting outside.
+- There are people waiting outside.
+- People waiting for the bus.
+- There are people making money.
+- There are a lot of people working hard.
+- There are a lot of people trying to live.
+- People trying to survive.
+- There are a lot of people trying to survive.
+- People reading a book.
+- There are some people reading a book.
+- There are many cars going to south Africa.
+- There are many computers setting here.
+- There are many restaurants selling pasta.
+- There are many restaurants making pasta.
+- There are many people working for me.
+- There are many people studying.

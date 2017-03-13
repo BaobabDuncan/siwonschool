@@ -1,0 +1,17 @@
+- Have you tried?
+- Have you been trying?
+- Do you try?
+- Did you try?
+- Can you try?
+- Should you try?
+- Have you worked?
+- Have you worked here?
+- Have you been working here?
+- Do you work here?
+- Did you work here?
+- Will you work here?
+- Can you work here?
+- Should you work here?
+- I have worked here.
+- I haven't worked here.
+- I have been working here.

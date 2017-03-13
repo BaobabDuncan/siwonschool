@@ -1,0 +1,20 @@
+- I have been studying.
+- You have been studying.
+- He has been studying.
+- She has been studying.
+- I have been waiting.
+- You have been waiting.
+- He has been waiting.
+- She has been waiting.
+- I have been drinking.
+- I have been taking.
+- He has been singing.
+- Have you been studying?
+- I have been studying?
+- Have you been waiting?
+- I haven't been waiting.
+- Have you been making?
+- Have you been making coffee?
+- Have you been going to school?
+- Have you been seeing movie?
+- I have been seeing the movie.

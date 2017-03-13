@@ -1,0 +1,13 @@
+- being from Canada I could speak English.
+- being rich I can travel any where.
+- being busy Obama couldn't come to Korea.
+- working in Korea I could lean Korean.
+- staying Hyatt hotel I could eat great food.
+- being able to study English I want it to stay here.
+- living in Seoul I could meet Lee.
+- being CEO of my company I could meet a lot of people.
+- having a lot of schedule I was very tried.
+- being from America I could speak English.
+- speaking English I could get a job this company.
+- speaking Korean I could come to Korea.
+- speaking Chinese I couldn't get lost.

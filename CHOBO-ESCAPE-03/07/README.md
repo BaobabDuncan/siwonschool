@@ -1,0 +1,1 @@
+- Do you want you authorized recipient to receive information about you that may arise or rebuilt on the curse of this application.
