@@ -1,0 +1,16 @@
+- I think that
+- I think that he is ok.
+- I think that he was ok.
+- I thought that
+- I thought that he was ok.
+- I thought that he is ok.
+- he said that
+- she said that
+- she said that I was pretty.
+- she said that she is busy.
+- she told me that
+- she told me that she was busy.
+- she told me that she was going to be busy.
+- she told me that she was going to have lunch.
+- she told me that she was going to study English.
+- she told me that she was going to come.
