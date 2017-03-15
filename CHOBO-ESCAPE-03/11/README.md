@@ -1,0 +1,12 @@
+- Way I had studied.
+- Way you had meet her.
+- Way you had been there.
+- How you had done it.
+- Where you had done it.
+- I didn't know when you had studied.
+- I didn't know when you had worked.
+- I didn't know way you had worked here.
+- I didn't know what you had wanted.
+- I knew what you had wanted.
+- I knew where you had stayed.
+- You said what you had wanted.
