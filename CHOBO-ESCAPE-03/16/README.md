@@ -1,0 +1,9 @@
+- I would rather work then pay money.
+- I would rather stay home then go out.
+- I would rather study English then study Chines.
+- I would rather sing then dance.
+- I would rather set down.
+- I would rather go now then later.
+- I would rather meet be with my friend then meet be with my girl friend.
+- either ~ or ~
+- neither ~ nor ~

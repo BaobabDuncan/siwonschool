@@ -1,0 +1,13 @@
+- It's early
+- It's early to work.
+- It's early to see a movie.
+- It's easy to study English.
+- It's amazing to
+- It's enough for our to drink.
+- It's great to be here.
+- It's great to be with you.
+- It's great to be teacher.
+- It's not easy to be great teacher.
+- It's not good.
+- It's not good that we have Han river.
+- It's good that they can speak English.

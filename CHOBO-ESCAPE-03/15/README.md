@@ -1,0 +1,9 @@
+- What I like about him is that he is very handsome.
+- What I love about this building is that tall enough.
+- What I love about this room is that a high celling.
+- What I like about this your book was that was very easy.
+- What I like about Korea was that Korean people were very kind.
+- What concerns me is that he doesn't speak English.
+- What concerns me is that we don't have enough money.
+- What concerns me is that you are too handsome.
+- What concerns me foremost is that my son believe that he has a enough money to setup the business in Seoul.

@@ -1,0 +1,7 @@
+- be satirical of
+- be proud of
+- be shamed of
+- be terrified of
+- be sure of
+- I'm satirical of working here.
+- I'm proud of working here.
