@@ -2,7 +2,7 @@
 
 - [01 - Jina is attractive](01/)
 - [02 - Hojun is soldier](02/)
-- [03](03/)
+- [03 - Jisun is outgoing](03/)
 - [04](04/)
 - [05](05/)
 - [06](06/)
